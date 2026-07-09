@@ -263,3 +263,17 @@ Built by [Agrici Daniel](https://agricidaniel.com/about) - AI Workflow Architect
 - [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) - Free community, 2,800+ members
 - [YouTube](https://www.youtube.com/@AgriciDaniel) - Tutorials and demos
 - [All open-source tools](https://github.com/AgriciDaniel)
+
+## Screenshots
+
+> Screenshots coming soon. This section will showcase the application's interface and key features.
+
+## Live Demo
+
+> A live demo is being prepared. Once deployed, a link will be available here.
+
+[![Demo Status](https://img.shields.io/badge/demo-pending-lightgrey)]()
+
+---
+
+*This project is actively maintained. For questions or feedback, please open an issue.*
